@@ -5,7 +5,7 @@
 * 下载 ClickBench 代码。
 
 ```
-git clone https://github.com/nautaa/ClickBench.git
+git clone https://github.com/nautaa/ClickBench.git -b miniob
 ```
 * 下载 ClickBench 数据集并解压。由于 ClickBench 数据集较大，我们只取部分数据集（前 100w 行）进行测试。
 
